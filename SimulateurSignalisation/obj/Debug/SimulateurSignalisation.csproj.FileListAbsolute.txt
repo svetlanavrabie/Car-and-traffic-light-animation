@@ -1,0 +1,10 @@
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\bin\Debug\SimulateurSignalisation.exe.config
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\bin\Debug\SimulateurSignalisation.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\bin\Debug\SimulateurSignalisation.pdb
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.Form1.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.Properties.Resources.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.csproj.CoreCompileInputs.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\SimulateurSignalisation\SimulateurSignalisation\obj\Debug\SimulateurSignalisation.pdb
